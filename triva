@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	
+	<nav>
+		<ul>
+		<li><a href="#Home"> <ul> Home</ul></a></li>
+		<li><a href="#About us"> <ul> About us</ul></a></li>
+		<li><a href="#Contact us"> <ul> Contact us</ul></a></li>
+		</ul>
+	</nav>
+	<section>
+		<h1 id="home">Home</h1>
+		<p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+            </p>
+		<h1 id="About us">About us</h1>
+		<p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+            </p>
+		<h1 id="Contact us">Contact us</h1>
+		<p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+            </p>
+	</section>
+	<h3>random videos</h3>
+	<video controls src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" height="500px" width="500px">Song-1</video><br>
+	<video controls src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" height="500px" width="500px">Song-2</video><br>
+	<video controls src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4" height="500px" width="500px">Song-3</video><br>
+    <script type="text/javascript" src="./script.js">
+	</script> 
+</body>
+</html>
